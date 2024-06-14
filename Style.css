@@ -1,0 +1,31 @@
+.main{
+    height: 800px;
+    width: 100%;
+    background-color: pink;
+}
+.header{
+    text-align: center;
+    height: 100px;
+    width: 100%;
+    text-transform: capitalize;
+}
+.content{
+    text-align: center;
+    text-decoration-color: deeppink;
+    text-transform: capitalize;
+    text-shadow: 100px rgb(86, 82, 82);
+    font-size: larger;
+}
+.animation{
+    padding-right: 120px;
+    margin-top: 90px;
+    text-align: center;
+    border: 2px solid deeppink;
+    border-radius: 30px;
+    width: 80%;
+    float: left;
+    height: 350px;
+}
+.img{
+    float: right;
+}
